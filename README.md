@@ -34,4 +34,4 @@ This repository contains Jupyter notebooks
 
 02 Scripts Contains the python scripts.
 
-03 Sent to Client contains the final presentation.
+Final presentation in PDF format included.
